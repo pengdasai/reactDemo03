@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.2"
+    "react-native": "0.59.2",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-timer-mixin": "^0.13.4"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
